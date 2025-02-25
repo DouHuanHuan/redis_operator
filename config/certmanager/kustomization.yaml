@@ -1,0 +1,6 @@
+resources:
+  - certificate.yaml
+namespace: system
+
+configurations:
+  - kustomizeconfig.yaml
